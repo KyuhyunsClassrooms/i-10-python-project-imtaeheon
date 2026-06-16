@@ -17,7 +17,7 @@
 
 ## 제출 파일
 
-- [ ] project_plan.md 작성 완료
+- [o ] project_plan.md 작성 완료
 - [ ] ai_log.md 작성 완료
 - [ ] report.md 작성 완료
 - [ ] sample_output.txt 작성 완료
